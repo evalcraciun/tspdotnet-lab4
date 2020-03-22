@@ -1,0 +1,10 @@
+C:\Users\Ciprian Craciun\source\repos\CodeFirst\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirst.deps.json
+C:\Users\Ciprian Craciun\source\repos\CodeFirst\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirst.dll
+C:\Users\Ciprian Craciun\source\repos\CodeFirst\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirst.csprojAssemblyReference.cache
+C:\Users\Ciprian Craciun\source\repos\CodeFirst\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirst.AssemblyInfoInputs.cache
+C:\Users\Ciprian Craciun\source\repos\CodeFirst\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirst.AssemblyInfo.cs
+C:\Users\Ciprian Craciun\source\repos\CodeFirst\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirst.runtimeconfig.json
+C:\Users\Ciprian Craciun\source\repos\CodeFirst\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirst.runtimeconfig.dev.json
+C:\Users\Ciprian Craciun\source\repos\CodeFirst\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirst.pdb
+C:\Users\Ciprian Craciun\source\repos\CodeFirst\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirst.dll
+C:\Users\Ciprian Craciun\source\repos\CodeFirst\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirst.pdb
